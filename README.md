@@ -51,3 +51,7 @@ Full BOM: [Google Sheets](https://docs.google.com/spreadsheets/d/1DATSQ3IbzevVbk
 
 
 All components are sourced from **DigiKey** except the **OLED screen**, which is purchased from Amazon.
+
+## License
+
+Licensed under the [Apache License 2.0](LICENSE). 
