@@ -2,8 +2,8 @@
 An Arduino-based constant-current discharge tester for 18650 lithium cells. It pulls a selected/controlled current out of a cell and 
 integrates that current over time to compute the cell's true capacity in mAh, with live readout on an OLED and automatic thermal cutoff for safety.
 
-[!layout](pics/layout.png)
-[!3d-model](pics/layout.png)
+![layout](pics/layout.png)
+![3d-model](pics/layout.png)
 
 ## How it works
 The circuitry is a constant-current electronic load with an op-amp continuously adjusts a MOSFET's gate voltage to hold a selected discharge current steady 
